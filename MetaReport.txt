@@ -1,0 +1,1395 @@
+
+Experimental metadata: plot 1 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 20C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 23
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0139
+y-axis screen name: Addinall et al. (2011) 23C yku70
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/08/28
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 2 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 27C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 30
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0139
+y-axis screen name: Addinall et al. (2011) 30C yku70
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/08/28
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 3 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 37C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 37_5
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0139
+y-axis screen name: Addinall et al. (2011) 37.5C yku70
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/08/28
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 4 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 37C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0139
+y-axis screen name: Addinall et al. (2011) 37C yku70
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/08/28
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 5 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 20C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhlk_CTGH
+y-axis screen ID: QFA0140
+y-axis screen name: Addinall et al. (2011) 20C cdc13-1
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/11/16
+y-axis PI: DAL
+y-axis condition: SDM_rhlk_CTGH
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 6 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 20C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhlk_CTGH
+y-axis screen ID: QFA0140
+y-axis screen name: Addinall et al. (2011) 27C cdc13-1
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/11/16
+y-axis PI: DAL
+y-axis condition: SDM_rhlk_CTGH
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 7 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 37C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 36
+y-axis medium: SDM_rhlk_CTGH
+y-axis screen ID: QFA0140
+y-axis screen name: Addinall et al. (2011) 36C cdc13-1
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2009/11/16
+y-axis PI: DAL
+y-axis condition: SDM_rhlk_CTGH
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 8 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 20C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0141
+y-axis screen name: Addinall et al. (2011) 27C ura3
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2010/01/18
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 9 
+R package version: 0.0-30
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhk_CTGN
+x-axis screen ID: QFA0141
+x-axis screen name: Addinall et al. (2011) 20C ura3
+x-axis libraries: SDLV2_384_SDLV3_384
+x-axis client: DAL
+x-axis user: SGA
+x-axis date: 2010/01/18
+x-axis PI: DAL
+x-axis condition: SDM_rhk_CTGN
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhk_CTGN
+y-axis screen ID: QFA0141
+y-axis screen name: Addinall et al. (2011) 37C ura3
+y-axis libraries: SDLV2_384_SDLV3_384
+y-axis client: DAL
+y-axis user: SGA
+y-axis date: 2010/01/18
+y-axis PI: DAL
+y-axis condition: SDM_rhk_CTGN
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 8
+
+Experimental metadata: plot 10 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 11 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 12 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 13 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 14 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 15 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: AUC
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: AUC
+y-axis number of replicates: 4
+
+Experimental metadata: plot 16 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 17 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 18 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 19 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 20 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 21 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: K
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: K
+y-axis number of replicates: 4
+
+Experimental metadata: plot 22 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 23 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 24 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 25 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 26 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 27 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 28 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 29 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 30 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 31 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 32 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 33 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDR
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDR
+y-axis number of replicates: 4
+
+Experimental metadata: plot 34 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 35 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 36 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 37 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 38 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 39 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: MDRMDP
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: MDRMDP
+y-axis number of replicates: 4
+
+Experimental metadata: plot 40 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4
+
+Experimental metadata: plot 41 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 20
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 20
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4
+
+Experimental metadata: plot 42 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4
+
+Experimental metadata: plot 43 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 27
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 27
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4
+
+Experimental metadata: plot 44 
+R package version: 0.0-43
+Summary type: mean
+Test type: t-test
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4
+
+Experimental metadata: plot 45 
+R package version: 0.0-43
+Summary type: median
+Test type: wilcoxon
+x-axis treatment: 37
+x-axis medium: SDM_rhl_CNGT
+x-axis screen ID: cSGA
+x-axis screen name: cSGA
+x-axis libraries: Boone Standard SDL
+x-axis client: MS
+x-axis user: SGA
+x-axis date: 2009
+x-axis PI: DAL
+x-axis condition: 
+x-axis inoculation type: DIL
+x-axis fitness definition: r
+x-axis number of replicates: 8
+y-axis treatment: 37
+y-axis medium: SDM_rhl_CNGHT
+y-axis screen ID: bir1-17
+y-axis screen name: bir1-17
+y-axis libraries: 
+y-axis client: MS
+y-axis user: AC
+y-axis date: 2010
+y-axis PI: DAL
+y-axis condition: 
+y-axis inoculation type: DIL
+y-axis fitness definition: r
+y-axis number of replicates: 4

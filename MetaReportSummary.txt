@@ -1,0 +1,46 @@
+PlotNo	x.axis	y.axis
+1	Addinall et al. (2011) 20C ura3 20 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 23C yku70 23 SDM_rhk_CTGN MDRMDP
+2	Addinall et al. (2011) 27C ura3 27 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 30C yku70 30 SDM_rhk_CTGN MDRMDP
+3	Addinall et al. (2011) 37C ura3 37 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 37.5C yku70 37_5 SDM_rhk_CTGN MDRMDP
+4	Addinall et al. (2011) 37C ura3 37 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 37C yku70 37 SDM_rhk_CTGN MDRMDP
+5	Addinall et al. (2011) 20C ura3 20 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 20C cdc13-1 20 SDM_rhlk_CTGH MDRMDP
+6	Addinall et al. (2011) 20C ura3 27 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 27C cdc13-1 27 SDM_rhlk_CTGH MDRMDP
+7	Addinall et al. (2011) 37C ura3 37 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 36C cdc13-1 36 SDM_rhlk_CTGH MDRMDP
+8	Addinall et al. (2011) 20C ura3 20 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 27C ura3 27 SDM_rhk_CTGN MDRMDP
+9	Addinall et al. (2011) 20C ura3 20 SDM_rhk_CTGN MDRMDP	Addinall et al. (2011) 37C ura3 37 SDM_rhk_CTGN MDRMDP
+10	cSGA 20  AUC	bir1-17 20  AUC
+11	cSGA 20  AUC	bir1-17 20  AUC
+12	cSGA 27  AUC	bir1-17 27  AUC
+13	cSGA 27  AUC	bir1-17 27  AUC
+14	cSGA 37  AUC	bir1-17 37  AUC
+15	cSGA 37  AUC	bir1-17 37  AUC
+16	cSGA 20  K	bir1-17 20  K
+17	cSGA 20  K	bir1-17 20  K
+18	cSGA 27  K	bir1-17 27  K
+19	cSGA 27  K	bir1-17 27  K
+20	cSGA 37  K	bir1-17 37  K
+21	cSGA 37  K	bir1-17 37  K
+22	cSGA 20  MDP	bir1-17 20  MDP
+23	cSGA 20  MDP	bir1-17 20  MDP
+24	cSGA 27  MDP	bir1-17 27  MDP
+25	cSGA 27  MDP	bir1-17 27  MDP
+26	cSGA 37  MDP	bir1-17 37  MDP
+27	cSGA 37  MDP	bir1-17 37  MDP
+28	cSGA 20  MDR	bir1-17 20  MDR
+29	cSGA 20  MDR	bir1-17 20  MDR
+30	cSGA 27  MDR	bir1-17 27  MDR
+31	cSGA 27  MDR	bir1-17 27  MDR
+32	cSGA 37  MDR	bir1-17 37  MDR
+33	cSGA 37  MDR	bir1-17 37  MDR
+34	cSGA 20  MDRMDP	bir1-17 20  MDRMDP
+35	cSGA 20  MDRMDP	bir1-17 20  MDRMDP
+36	cSGA 27  MDRMDP	bir1-17 27  MDRMDP
+37	cSGA 27  MDRMDP	bir1-17 27  MDRMDP
+38	cSGA 37  MDRMDP	bir1-17 37  MDRMDP
+39	cSGA 37  MDRMDP	bir1-17 37  MDRMDP
+40	cSGA 20  r	bir1-17 20  r
+41	cSGA 20  r	bir1-17 20  r
+42	cSGA 27  r	bir1-17 27  r
+43	cSGA 27  r	bir1-17 27  r
+44	cSGA 37  r	bir1-17 37  r
+45	cSGA 37  r	bir1-17 37  r
