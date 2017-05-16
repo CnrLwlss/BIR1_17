@@ -4,7 +4,7 @@ Quantitative Fitness Analysis ([QFA](http://research.ncl.ac.uk/qfa/)) is a set o
 
 To find genetic interactions with *bir1-17* we carried out a screen of the yeast knockout collection crossed with a *bir1-17* query strain to give ~5,000 double mutant strains.  We also generated a second set of ~5,000 control strains by crossing the same knockout collection with a wild-type strain (labelled cSGA).
 
-This repository contains three directories whose contents are described below. Files which are found in the root directory include files containing output report tables reporting Genetic Interaction Strengths (GIS.txt), fitness plots for visualising the evidence for genetic interaction (.pdf) and an R script for carrying out analysis using the QFA R package (updateFiles.R).
+This repository contains four directories whose contents are described below.  An R script file (updateFiles.R) and this file (README.md) can be found in the root directory.
 
 ## BIR1-17
 
@@ -24,3 +24,7 @@ Raw [Colonyzer](http://research.ncl.ac.uk/colonyzer) image analysis output for f
 
 ## qfaDALBIRHISTORICAL
 Files for building the [QFA visualisation tool](http://qfa.r-forge.r-project.org/visTool) for this project.
+
+## GIS_output
+Output report tables reporting Genetic Interaction Strengths (GIS.txt), fitness plots for visualising the evidence for genetic interaction (.pdf)
+
